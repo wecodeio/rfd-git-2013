@@ -1,0 +1,45 @@
+body {
+  background-color: #fff;
+}
+
+header.main {
+  background-color: #fc0;
+  margin: 5px;
+  margin-bottom: 30px;
+  padding: 30px 0;
+}
+header.main .logo {
+  display: block;
+  margin: auto;
+}
+header.main p {
+  position: absolute;
+  left: 360px;
+  top: 110px;
+}
+
+section {
+  margin-left: 20px;
+}
+
+article.organizer {
+  width: 21%;
+  float: left;
+  padding: 0 2%;
+}
+article.organizer a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+  margin-top: 5px;
+  font-weight: bolder;
+}
+article.organizer p {
+  font-size: 0.8em;
+}
+img.avatar {
+  border-radius: 50px;
+  border-color: #fc0;
+  border-width: 4px;
+  border-style: solid;
+}
